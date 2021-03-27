@@ -1,5 +1,8 @@
-# BasicLINQ
-Basic LINQ exercise
+# BasicLINQ exercises
+## You are only allowed to modify code within the "Act" part of a test to solve the exercise.
+
+LINQ Intro:
+
 
 Prerequisites - To better understand LINQ you will need to have beginner level familiarity with these terms:
   1. Generic Collections (System.Collections.Generic): 
