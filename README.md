@@ -12,7 +12,7 @@
   4. Extension Methods
     https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
    
- ## Intro to LINQ
+ ### Intro to LINQ
  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
  
