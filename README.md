@@ -34,4 +34,4 @@ The unit test must pass.
 https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6   
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview   
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/classification-of-standard-query-operators-by-manner-of-execution  
-https://github.com/dotnet/try-samples/tree/main/101-linq-samples/src  
+https://github.com/dotnet/try-samples/blob/main/101-linq-samples/readme.md  
