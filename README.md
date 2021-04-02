@@ -13,7 +13,7 @@
     https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
    
  ### Intro to LINQ
- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
+ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/  
  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
  
 # Exercises:
@@ -29,7 +29,8 @@ The unit test must pass.
 
 
 
-Useful links:
-https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/classification-of-standard-query-operators-by-manner-of-execution
+#### Useful links:
+
+https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6   
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview   
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/classification-of-standard-query-operators-by-manner-of-execution  
